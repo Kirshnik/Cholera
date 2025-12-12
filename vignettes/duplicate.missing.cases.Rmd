@@ -1,0 +1,12 @@
+---
+title: "Duplicate and Missing Cases"
+author: "lindbrook"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Duplicate and Missing Cases}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+The "Duplicate and Missing Cases" vignette is available online at this [link](https://github.com/lindbrook/cholera/blob/master/docs/vignettes/duplicate.missing.cases.md) on the 'cholera' GitHub repository.

@@ -1,0 +1,12 @@
+---
+title: "Time Series"
+author: "lindbrook"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Time Series}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+The "Time Series" vignette is available online at this [link](https://github.com/lindbrook/cholera/blob/master/docs/vignettes/time.series.md) on the 'cholera' GitHub repository.

@@ -1,0 +1,129 @@
+---
+title: "references"
+author: "lindbrook"
+date: "`r Sys.Date()`"
+output: rmarkdown::github_document
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = ">"
+)
+```
+
+Peter Ackroyd. 2000 (2003). _London: The Biography_. New York: Anchor Books.
+
+Peter Ackroyd. 2011. _London Under: The Secret History Beneath the Streets_. New York: Nan A. Talese/Doubleday.
+
+Herve Bazin. 2000. _The Eradication of Smallpox: Edward Jenner and the First and Only Eradication of a Human Infectious Disease_. San Diego: Academic Press.
+
+John Broich. 2013. _London: Water and the Making of the Modern City_. Pittsburgh: University of Pittsburgh Press.
+
+Asa Briggs. 1993 (1963). _Victorian Cities_. Berkeley: University of California Press.
+
+David Cannadine. 2017. _Victorious Century: The United Kingdom, 1800-1906_. New York: Viking.
+
+Muriel E. Chamberlain. 1983. _Lord Aberdeen: A political biography_. New York: Longman.
+
+The Cholera Inquiry Committee. 1855. _Report On The Cholera Outbreak In The Parish Of St. James, Westminster, During The Autumn Of 1854_. London: John Churchill.
+
+Nadja Durbach. 2005. _Bodily Matters: The Anti-Vaccination Movement in England, 1853–1907_. Durham: Duke University Press.
+
+Michael Durey. 1979. _The Return of the Plague: British Society and the Cholera 1831-2_. London: Gill and Macmillan Humanities Press.
+
+Niall Fergurson. 1998 _The House of Rothschild: The World's Banker 1849-1999_.  New York: Penguin Books.
+
+Niall Fergurson. 2001. _The Cash Nexus: Money and Power in the Modern World_.  New York: Basic Books.
+
+Niall Fergurson. 2002. _Empire: The Rise and Demise of the British World Order and the Lessons for Global Power_.  New York: Basic Books.
+
+Judith Flanders. 2012. _The Victorian City: Everyday Life in Dickens's London_. London: Atlantic Books.
+
+David Freedman. 1999. "From Association to Causation: Some Remarks on the History of Statistics". _Statistical Science_. 14(3): 243-258.
+
+Michael Friendly and Howard Rainer. 2021. _A History of Data Visualization and Graphic Communication_. Cambridge: Harvard University Press.
+
+Mary Gabriel. 2011. _Love and Capital: Karl and Jenny Marx and the Birth of a Revolution_. New York: Little, Brown and Company.
+
+Vic Gattrell. 2022. _Conspiracy on Cato Street: A Tale of Liberty and Revolution in Regency London_. New York: Cambridge University Press.
+
+Ruth Goodman. 2015. _How to Be a Victorian: A Dawn-to-Dusk Guide to Victorian Life_. New York: Liveright.
+
+David Graeber. 2011. _Debt: The First 5,000 Years_. Brooklyn: Melville House.
+
+Christopher Hamlin. 2009. _Cholera: The Biography_. New York: Oxford University Press.
+
+Lucinda Hawksley. 2016. _Bitten by Witch Fever: Wallpaper & Arsenic in the Victorian Home_. New York: Thames & Hudson.
+
+Kyle Harper. 2021. _Plagues Upon the Earth: Disease and the Course of Human History_. Princeton: Princeton University Press.
+
+Brian Harrison. 1997. _Drink and the Victorians_. Edinburgh: Edinburgh University Press.
+
+Arthur Hill Hassall. 1876. _Food: Its Adulterations, and the Methods for their Detection_. London: Longmans, Green, and Co.
+
+Sandra Hempel. 2013. "Obituary: John Snow". _The Lancet_. 381(9874): 1269-1270.
+
+Jonathan Hodge and Gregory Radick, eds. 2003. _The Cambridge Companion to Darwin_. New York: Cambridge University Press.
+
+Lucy Inglis. 2014 (2013). _Georgian London: Into the Streets_. New York: Penguin Group.
+
+Stephen Inwood. 1998. _A History of London_. New York: Carroll & Graf Publishers.
+
+Lee Jackson. 2014. _Dirty Old London: The Victorian Fight Against Filth_. New Haven: Yale University Press.
+
+Oskar Jensen. 2022. _Vagabonds: Life on the Streets of Nineteenth-Century London_. Richmond: Duckworth Books Ltd.
+
+Steven Johnson. 2006. _The Ghost Map: The Story of London's Most Terrifying Epidemic – and How it Changed Science, Cities and the Modern World_. New York: Liveright.
+
+Gareth Stedman Jones. 1971 (2013). _Outcast London: A Study in the Relationship Between Classes in Victorian Society_. London: Verso.
+
+Steve Jones. 1999 (2001). _Darwin's Ghost: The Origin of Species Updated_. New York: Random House.
+
+Tom Koch. 2011. _Disease Maps: Epidemics on the Ground_. Chicago: The University of Chicago Press.
+
+Jill Lepore. 2020. "The Invention of the Police." _The New Yorker_. July 13.
+
+Alan MacFarlane and Iris MacFarlane. 2004. _The Empire of Tea: The Remarkable History of the Plant that Took Over the Worls_. New York: The Overlook Press.
+
+Karl Marx and Friedrich Engels. 1983. _Collected Works: Letters_. Vols. 38-39. London: Lawrence & Wishart.
+
+Deirdre Mask. 2020. _The Address Book: What Street Addresses Reveal about Identity, Race, Wealth, and Power_. New York: St Martin's Griffin.
+
+Mark Miodownik. 2024. _It's a Gas: THe Sublime and Elusive Elements That Expand Our World_. New York: Mariner Books.
+
+R. J. Morris. 1976. _Cholera 1832: The Social Response to An Epidemic_. New York: Holmes & Meier.
+
+Donald J. Olsen. 1976. _The Growth of London_. London: B.T. Batsford Ltd.
+
+Nick Paumgarten. 2019. "The Message of Measles". _The New Yorker_. September 2. https://www.newyorker.com/magazine/2019/09/02/the-message-of-measles.
+
+Margaret Pelling. 1978. _Cholera, Fever and English Medicine: 1825-1865_. Oxford: Oxford University Press.
+
+Liza Picard. 2006. _Victorian London: The Life of A City, 1840-1870_. New York: St Martin's Press.
+
+James C. Riley. 1987. _The Eighteenth-Century Campaign to Avoid Disease_. New York: St. Martin's Press.
+
+Shiode et al. 2015. "The mortality rates and the space-time patterns of John Snow’s cholera epidemic map". _International Journal of Health Geographics_. 14:21.
+
+Robert Skidelsky. 2018. _Money and Government: The Past and Future of Economics_. New Haven: Yale University Press.
+
+John Snow. 1838. "Arsenic as a preservative of dead bodies". _The Lancet_. 10 November: 264.
+
+John Snow. 1855. _On The Mode Of Communication Of Cholera_. London: John Churchill.
+
+Amanda J. Thomas. 2015. _Cholera: The Victorian Plague_. South Yorkshire: Pen and Sword History.
+
+E. P. Thompson. 1963 (1966). _The Making of the English Working Class_. New York: Vintage Books.
+
+Tom Vanderbilt. 2008. _Traffic: Why We Drive the Way We Do (and What It Says About Us)_. New York: Knopf.
+
+Peter Vinten-Johansen, et al. 2003. _Cholera, Chloroform, and the Science of Medicine: A Life of John Snow_. Oxford: Oxford University Press.
+
+Gavin Weightman. 2004. _London's Thames: The River That Shaped a City and Its History_. New York: St. Martin's Press.
+
+Peter Whitfield. 2006. _London: A Life in Maps_. London: The British Library.
+
+Bee Wilson. 2008. _Swindled: The Dark History of Food Fraud, From Poisoned Candy to Counterfeit Coffee_. Princeton: Princeton University Press.
+
+Alison Winter. 1998. _Mesmerized: powers of mind in Victorian Britain_. Chicago: The University of Chicago Press.

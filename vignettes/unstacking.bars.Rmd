@@ -1,0 +1,12 @@
+---
+title: '"Unstacking" Bars'
+author: "lindbrook"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{"Unstacking" Bars}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+The "'Unstacking' Bars" vignette is available online at this [link](https://github.com/lindbrook/cholera/blob/master/docs/vignettes/unstacking.bars.md) on the 'cholera' GitHub repository.

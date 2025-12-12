@@ -1,0 +1,12 @@
+---
+title: "Parallelization"
+author: "lindbrook"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Parallelization}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+The "Parallelization" vignette is available online at this [link](https://github.com/lindbrook/cholera/blob/master/docs/vignettes/parallelization.md) on the 'cholera' GitHub repository.

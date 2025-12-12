@@ -1,0 +1,12 @@
+---
+title: "voronoiPolygons(): Tiles, Triangles and Polygons"
+author: "lindbrook"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{voronoiPolygons(): Tiles, Triangles and Polygons}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+The "voronoiPolygons(): Tiles, Triangles and Polygons" vignette is available online at this [link](https://github.com/lindbrook/cholera/blob/master/docs/vignettes/tiles.polygons.md) on the 'cholera' GitHub repository.

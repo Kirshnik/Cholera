@@ -1,0 +1,12 @@
+---
+title: "Roads"
+author: "lindbrook"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Roads}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+The "Roads" vignette is available online at this [link](https://github.com/lindbrook/cholera/blob/master/docs/vignettes/roads.md) on the 'cholera' GitHub repository.

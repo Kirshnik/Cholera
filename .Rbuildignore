@@ -1,0 +1,9 @@
+^CRAN-RELEASE$
+^.*\.Rproj$
+^\.Rproj\.user$
+^cran-comments\.md$
+^README\.Rmd$
+^README-.*\.png$
+^docs$
+^CONTRIBUTING\.md$
+^CONTRIBUTING\.Rmd$
